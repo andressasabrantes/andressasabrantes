@@ -5,5 +5,4 @@ minhas hard skills no momento são: C#, JavaScript (ES6), Microsoft SQL Server, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressasabrantes)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressasabrantes&show_icons=true)  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressasabrantes&show_icons=true&theme=transparent)
