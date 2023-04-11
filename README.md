@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on a Tournament Tracker (https://github.com/andressasabrantes/TournamentTracker.git)  
+- 🔭 I’m currently working on a Tournament Tracker Application (https://github.com/andressasabrantes/TournamentTracker.git)  
 
 
 - 🌱 I’m currently learning C# and Java 💻❤️  
