@@ -9,14 +9,14 @@
 - 🌱 I’m currently learning C# and Java 💻❤️  
   
 
-- ⚡ Fun fact: I love to play Footvolley ⚽  
+- ⚡ Fun fact: I love to play Footvolley ⚽ and I'm an architect 🖤  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 
 
 
@@ -27,7 +27,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+ 
 </div>
 
 </td><td valign="top" width="33%">
@@ -83,15 +83,9 @@
 
 ## Github Stats
 <br/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressasabrantes&hide_border=true&layout=compact" align="center" /></div>  
-<br/> 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=andressasabrantes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+![andressasabrantes's Stats](https://github-readme-stats.vercel.app/api?username=andressasabrantes&theme=bear&show_icons=true&hide_border=true&count_private=true)
+![andressasabrantes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andressasabrantes&theme=bear&hide_border=true)
+![andressasabrantes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andressasabrantes&theme=bear&show_icons=true&hide_border=true&layout=compact)
 
 <br/>  
-
-
-  
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
