@@ -84,7 +84,18 @@
 ## Github Stats
 <br/> 
 
-![andressasabrantes's Stats](https://github-readme-stats.vercel.app/api?username=andressasabrantes&theme=bear&show_icons=true&hide_border=true&count_private=true)![andressasabrantes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andressasabrantes&theme=bear&hide_border=true)
+<div align="center"> 
+  
+![andressasabrantes's Stats](https://github-readme-stats.vercel.app/api?username=andressasabrantes&theme=bear&show_icons=true&hide_border=true&count_private=true)
+  
+</div> 
+
+<div align="center"> 
+  
+![andressasabrantes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andressasabrantes&theme=bear&hide_border=true)
+
+</div> 
+
 <div align="center"> 
   
 ![andressasabrantes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andressasabrantes&theme=bear&show_icons=true&hide_border=true&layout=compact)
