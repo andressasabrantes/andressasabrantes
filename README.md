@@ -1,13 +1,11 @@
 ## <div align="center">Heey, I'm Andressa, a Software Engineer Intern 👩‍💻 working in tech since 2022 🚀</div> 
 
-
 <br/>
 
 - 🌱 I’m currently learning C# and Java 💻❤️  
   
 
 - ⚡ Fun fact: I love to play Footvolley ⚽ and I'm an architect 🖤  
-  
 
 <br/>  
 
