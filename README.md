@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning C# 💻❤️  
+- 🌱 I’m currently learning ASP.NET Core MVC 💻❤️  
   
 
 - ⚡ Fun fact: I love to play Alta ⚽ and I'm an architect 🖤  
