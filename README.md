@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🌱 I’m currently working on a personal website using C#, ASP.NET Core MVC, with Entity Framework and Sql Server 💻❤️ 
+- 🌱 I’m currently working on a web system using C#, ASP.NET Core MVC, with Entity Framework and Sql Server 💻❤️ 
 (https://github.com/andressasabrantes/monitore) 
 
 
