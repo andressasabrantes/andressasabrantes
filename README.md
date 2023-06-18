@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on a web system using C#, ASP.NET Core MVC, with Entity Framework and SQL Server 
 (https://github.com/andressasabrantes/monitore) 
 
-- 🌱 Currently learning C# and ASP.NET Core MVC 💻❤️ 
-(https://github.com/andressasabrantes/monitore) 
+- 🌱 Currently learning C# and ASP.NET Core MVC 💻❤️
 
 - ⚡ Fun fact: I love to play Alta ⚽ and I'm an architect 🖤  
 
