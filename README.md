@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning C# and ASP.NET Core MVC 💻❤️
 
-- ⚡ Fun fact: I love to play Alta ⚽ and I'm an architect 🖤  
+- ⚡ Fun fact: I love to play Altinha ⚽ and I'm an architect 🖤  
 
 <br/>  
 
