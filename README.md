@@ -1,4 +1,4 @@
-<h1 align="center">Heey 👋, I'm Andressa Abrantes</h1>
+<h1 align="center">Heey, I'm Andressa Abrantes</h1>
 <h3 align="center">a Software Engineer Student 👩‍💻💻 working in tech since 2022 🚀</h3>
 
 - 🔭 I’m currently working on a web system using **C#, ASP.NET Core MVC, with Entity Framework and SQL Server** (https://github.com/andressasabrantes/monitore)
