@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **C# and ASP.NET Core MVC 💻❤️**
 
-- 📝 I regularly write articles on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)
+- 📝 I regularly write articles on [@andressaabrantes](@andressaabrantes)
 
 - ⚡ Fun fact: **I love to play Altinha ⚽ and I'm an architect 🖤** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://medium.com/https://medium.com/@andressaabrantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@andressaabrantes" height="30" width="40" /></a>
+<a href="https://medium.com/@andressaabrantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@andressaabrantes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andrezasantosabrantes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrezasantosabrantes/" height="30" width="40" /></a>
 
 </p>
