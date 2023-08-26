@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# and ASP.NET Core MVC 💻❤️**
 
-- 📝 I regularly write articles on [@andressaabrantes](@andressaabrantes)
+- 📝 I regularly write articles on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)
 
 - ⚡ Fun fact: **I love to play Altinha ⚽ and I'm an architect 🖤** 
 
