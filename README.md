@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **RESTful Web API system with Token-Based Authentication built on the .NET 7** (https://github.com/andressasabrantes/BaliVilla-API)
 
-- 🌱 I’m currently learning **C# and ASP.NET Core MVC 💻❤️**
+- 🌱 I’m currently learning **RESTful Web API in .NET 7 💻❤️**
 
 - 📝 **I regularly write articles on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)**
 
