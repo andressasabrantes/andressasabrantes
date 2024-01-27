@@ -1,8 +1,6 @@
 <h1 align="center">Heey, I'm Andressa Abrantes</h1>
 <h3 align="center">a Software Engineer Student 👩‍💻💻 working in tech since 2022 🚀</h3>
 
-- 🔭 I’m currently working on a **RESTful Web API system with Token-Based Authentication built on the .NET 7** (https://github.com/andressasabrantes/BaliVilla-API)
-
 - 🌱 I’m currently learning **System Design**
 
 - 📝 **I regularly write articles on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)**
