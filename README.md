@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact: **I love to play Altinha ⚽ and I'm an architect 🖤**
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://medium.com/@andressaabrantes" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@andressaabrantes" height="30" width="98" /></a>
