@@ -3,7 +3,7 @@
 
 - 💻 I'm currently working on the Interbikes Management System https://github.com/Interbikes-Management-System
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning System Design
 
 - 📝 **I regularly write articles on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)**
 
