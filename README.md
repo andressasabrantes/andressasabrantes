@@ -1,9 +1,7 @@
 <h1 align="center">Heey, I'm Andressa Abrantes</h1>
 <h3 align="center">a Software Engineer Student 👩‍💻💻 working in tech since 2022 🚀</h3>
 
-- 💻 I'm currently working on the Interbikes Management System https://github.com/Interbikes-Management-System
-
-- 🌱 I’m currently learning System Design
+- 💻 I'm currently working on the Interbikes E-Commerce [https://github.com/Interbikes-Management-System](https://github.com/andressasabrantes/InterbikesEcommerce.git)
 
 - 📝 **I regularly write articles on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)**
 
