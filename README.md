@@ -3,7 +3,9 @@
 
 - 💻 I'm currently working on the Interbikes E-Commerce [https://github.com/Interbikes-Ecommerce](https://github.com/andressasabrantes/InterbikesEcommerce.git)
 
-- 📝 **I regularly write articles on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)**
+- 📝 I regularly **write articles** on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)
+
+- 🌱 I’m currently learning System Design 💻❤️
 
 
 <h3 align="center">Connect with me:</h3>
