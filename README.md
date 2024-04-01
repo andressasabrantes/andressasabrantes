@@ -5,7 +5,7 @@
 
 - 📝 I regularly **write articles** on [https://medium.com/@andressaabrantes](https://medium.com/@andressaabrantes)
 
-- 🌱 I’m currently learning System Design 💻❤️
+- 🌱 I’m currently learning **System Design** 💻❤️
 
 
 <h3 align="center">Connect with me:</h3>
