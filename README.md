@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **System Design** 💻❤️
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://medium.com/@andressaabrantes" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@andressaabrantes" height="30" width="98" /></a>
